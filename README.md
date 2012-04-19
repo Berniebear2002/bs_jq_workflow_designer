@@ -2,7 +2,7 @@ bs_jq_workflow_designer
 =======================
 
 Der Workflow-Designer soll es ermöglichen, Arbeitsabläufe in einem Webfrontend über Jquery 
-zu entfernen oder zu ändern und anschließend an eine Server-Anwendung zu senden, wo die Daten in XML gespeichert werden.
+zu erstellen oder zu ändern und anschließend an eine Server-Anwendung zu senden, wo die Daten in XML gespeichert werden.
 
 Z.Zt. befindet sich die Anweundung noch in einen sehr frühen Stadium.
 Als Plattform für die Serverseitige Verarbeitung habe ich zunächst einmal einen Coldfusion- bzw. Railo-Server im Sinn
