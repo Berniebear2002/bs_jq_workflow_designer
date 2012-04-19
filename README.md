@@ -11,6 +11,6 @@ Als Plattform für die Serverseitige Verarbeitung habe ich zunächst einmal eine
 
 Ich verwende das JQuery-Package jCanvas als Grundlage und versuche, durch Erweiterung/Änderung meinem Ziel, 
 grafische Elemente für verschiedene Arten von Arbeitsschritten mit der Maus positionieren zu können, einzelnen Schritte 
-verbinden und die Standard- Elemente wie Verzweigungen, Schleifen, Quellen, Senken und Includes abbilden zu können.
+verbinden und die Standard- Elemente wie Verzweigungen, Schleifen, Quellen, Senken und Includes einzubinden, näher zu kommen.
 
 Gruß Bernd
